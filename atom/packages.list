@@ -1,6 +1,7 @@
 activate-power-mode@0.7.0
 language-chef@0.8.0
-language-markdown@0.13.0
+language-markdown@0.15.0
+markdown-preview@0.158.0
 markdown-writer@2.3.3
 
 

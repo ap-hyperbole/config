@@ -1,0 +1,22 @@
+"*":
+  autosave:
+    enabled: true
+  core:
+    disabledPackages: [
+      "language-gfm"
+    ]
+    openEmptyEditorOnStart: false
+    projectHome: "/Users/padiya01/repos"
+    themes: [
+      "atom-dark-ui"
+      "atom-dark-syntax"
+    ]
+  editor:
+    fontSize: 13
+    invisibles: {}
+    softWrap: true
+  "exception-reporting":
+    userId: "40a1f3ee-f60b-fdd5-9336-4b09dc5e7908"
+  "markdown-writer": {}
+  welcome:
+    showOnStartup: false
